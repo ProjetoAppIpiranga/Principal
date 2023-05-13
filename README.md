@@ -7,7 +7,7 @@
 <br>
 <h3>Entregáveis</h3>
 <ul>
-  <li>Questionário para pesquisa</li>
+  <li>Questionário para pesquisa (acesse <a href="https://s.surveyplanet.com/mkwemztc" target="_blank">aqui</a> a pesquisa online)</li>
   <li>Base de dados na planilha</li>
   <li>Kanban</li>
   <li>Dashboard</li>
