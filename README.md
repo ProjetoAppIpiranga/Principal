@@ -9,7 +9,7 @@
 <br>
 
 <h2>Projeto Integrador Gama Academy e Ipiranga</h2>
-<p>Projeto final do programa Inclusão Tech, parceria entre Gama Academy e Ipiranga, ofertando capacitação para pessoas com deficiência (PCDs) para atuar com Product Design ou Engenharia de Dados na empresa. O projeto consiste na construção de um dashboard a partir de um banco de dados, este originado de pesquisa criada pela equipe sobre a experiência dos usuários de aplicativos de postos de gasolina, mais especificamente o app "Abastece Aí" do Ipiranga. Foi utilizado durante o projeto as metodologias ágeis de trabalho (Scrum e Kanban), com uso da ferramenta online Trello. Segue abaixo a lista dos materiais finais requisitados.</p>
+<p>Projeto final do programa Inclusão Tech, parceria entre Gama Academy e Ipiranga, ofertando capacitação para pessoas com deficiência (PCDs) para atuar com Product Design ou Engenharia de Dados na empresa. O projeto consiste na construção de um dashboard a partir de um banco de dados, este originado de pesquisa criada pela equipe sobre a experiência dos usuários de aplicativos de postos de gasolina, mais especificamente o app "Abastece Aí" do Ipiranga. Foram utilizadas durante o projeto as metodologias ágeis de trabalho (Scrum e Kanban), com uso da ferramenta online Trello. Segue abaixo a lista dos materiais finais requisitados.</p>
 
 <br>
 
