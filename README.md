@@ -23,7 +23,7 @@
 
 <br>
 
-<h3>EQUIPE:</h3>
+<h3>Grupo 04:</h3>
 <ul> 
   <li>Ana Paula Chaves dos Santos 
     <a href="https://www.linkedin.com/in/ana-paula-chaves-00a29561">
