@@ -11,8 +11,8 @@
 <ul>
   <li>Questionário para pesquisa (acesse <a href="https://s.surveyplanet.com/mkwemztc" target="_blank">aqui</a> a pesquisa online ou clique <a href="https://github.com/ProjetoAppIpiranga/Principal/blob/main/questionario.pdf" target="_blank">aqui</a> para o arquivo pdf)</li>
   <li>Base de dados na planilha (acesse <a href="https://github.com/ProjetoAppIpiranga/Principal/blob/main/base_de_dados.xlsx" target="_blank">aqui</a> a planilha do Excel)</li>
-  <li>Kanban</li>
-  <li>Dashboard</li>
+  <li>Kanban (acesse <a href="" target="_blank">aqui</a> o link para Trello)</li>
+  <li>Dashboard (acesse <a href="" target="_blank">aqui</a> para visualizar os dados no PowerBI)</li>
 </ul>
 <br>
 <br>
