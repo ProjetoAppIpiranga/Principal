@@ -1,4 +1,4 @@
-<h1>PROGRAMA INCLUSÃO TECH</h1><img src="https://gama.academy/gama-logo.png" width="40">
+<h1>PROGRAMA INCLUSÃO TECH <img src="https://i.ibb.co/KyN9jzN/mini-logo.png" width="40"><img src="https://gama.academy/gama-logo.png" width="40"></h1>
 
 <br>
 
