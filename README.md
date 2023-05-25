@@ -19,6 +19,7 @@
   <li>Base de dados na planilha (acesse <a href="https://github.com/ProjetoAppIpiranga/Principal/blob/main/base_de_dados.xlsx" target="_blank">aqui</a> a planilha do Excel)</li>
   <li>Kanban (acesse <a href="https://trello.com/b/mAuG70yX/projeto-ipiranga-entrega" target="_blank">aqui</a> a divisão de tarefas no Trello)</li>
   <li>Dashboard (acesse <a href="" target="_blank">aqui</a> para visualizar os dados no Power BI)</li>
+  <li>Protótipo do App (acesse <a href="https://pr.to/5HLPC9/" target="_blank">aqui</a> para visualizar)</li>
 </ul>
 
 <br>
