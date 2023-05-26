@@ -20,6 +20,7 @@
   <li>Kanban (acesse <a href="https://trello.com/b/mAuG70yX/projeto-ipiranga-entrega" target="_blank">aqui</a> a divisão de tarefas no Trello)</li>
   <li>Dashboard (acesse <a href="" target="_blank">aqui</a> para visualizar os dados no Power BI ou clique <a href="" target="_blank">aqui</a> para o arquivo em pdf)</li>
   <li>Protótipo do app da pesquisa (acesse <a href="https://pr.to/5HLPC9/" target="_blank">aqui</a> para visualizar)</li>
+  <li>Apresentação (acesse <a href="" target="_blank">aqui</a> a apresentação no Canva ou clique <a href="" target="_blank">aqui</a> para o arquivo em pdf)</li>
 </ul>
 
 <br>
