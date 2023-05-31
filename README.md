@@ -1,7 +1,5 @@
 <img src="https://i.ibb.co/9TWxZ2h/readmebanner.png">
 
-<br>
-
 <h1>PROGRAMA INCLUSÃO TECH</h1>
 
 <br>
