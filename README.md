@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co/9TWxZ2h/readmebanner.png">
-<h1>PROGRAMA INCLUSÃO TECH <img src="https://i.ibb.co/RQsWMTd/mini-logo2.png" height="25"><img src="https://i.ibb.co/dKWVkcq/gama-logo-mini.png" height="25"></h1>
+<h1>PROGRAMA INCLUSÃO TECH</h1>
 
 <br>
 
